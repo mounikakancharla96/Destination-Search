@@ -1,0 +1,15 @@
+.destination-list {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.item-img {
+    width: 150px;
+    height: 100px;
+}
+.name {
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 17px;
+    text-align: left;
+    width: 130px;
+}
